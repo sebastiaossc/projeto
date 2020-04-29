@@ -7,13 +7,13 @@ import time
 # class campo mensagem > class='_1mf _1mj'
 # class botão enviar > class='_6gb _6wm4 _6987'
 
-print("     =================")
+print("     ="*20)
 print("     INICIANDO BOT")
 print("     ")
 print("     FACEBOOK LOGIN")
 print("     ")
 print("     BY: SEBASTIAO")
-print("     =================")
+print("     ="*20)
 class Facebook():
     def __init__(self, driver):
         self.driver = driver
